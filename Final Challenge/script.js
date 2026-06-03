@@ -86,12 +86,12 @@ class Player {
     }
 
     if (input.length() > 0) {
-      input.normalize().scale(640 * dt);
+      input.normalize().scale(1700 * dt);
       this.velocity.add(input);
     }
 
     const speed = this.velocity.length();
-    const maxSpeed = 260;
+    const maxSpeed = 620;
     if (speed > maxSpeed) this.velocity.normalize().scale(maxSpeed);
 
     this.position.add(this.velocity.clone().scale(dt));
