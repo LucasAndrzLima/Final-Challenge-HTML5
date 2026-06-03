@@ -345,7 +345,7 @@ class Game {
     this.state = "about";
     showPanel(
       "Sobre",
-      "Projeto do Final Challenge de HTML5 Canvas & Games.<br><br>Participantes: Lucas.<br><br>O jogo usa canvas, classes, vetores, transformacoes, sprites SVG autorais, particulas, progressao de fases, score, vidas e sons via Web Audio.",
+      "Projeto do Final Challenge de HTML5 Canvas & Games.<br><br>Participantes: Lucas Andrzejewski de Lima e Gustavo Iichiro Nagata.<br><br>O jogo usa canvas, classes, vetores, transformacoes, sprites SVG autorais, particulas, progressao de fases, score, vidas e sons via Web Audio.",
       "Jogar",
       "Menu"
     );

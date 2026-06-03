@@ -4,7 +4,7 @@ Projeto desenvolvido para o Final Challenge da disciplina Web Development HTML5 
 
 ## Participantes
 
-- Lucas
+- Lucas Andrzejewski de Lima e Gustavo Iichiro Nagata
 
 ## Como executar
 
